@@ -16,5 +16,7 @@ http://docs.datastax.com/en/developer/csharp-driver-dse/2.0/
 Download 
 http://downloads.datastax.com/community/datastax-community-64bit_3.0.9.msi
 
+https://oneideluiz.wordpress.com/2013/10/25/instalando-cassandra-no-windows/
+
 
 
