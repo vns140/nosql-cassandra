@@ -10,3 +10,7 @@ http://www.datastax.com/download
 Site oficial
 http://cassandra.apache.org/doc/cql3/CQL.html
 
+Documentação .NET C#
+http://docs.datastax.com/en/developer/csharp-driver-dse/2.0/
+
+
