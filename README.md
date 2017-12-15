@@ -1,5 +1,10 @@
 # nosql-cassandra
 
+Download Gerenciador
+https://www.mongodbmanager.com/download
+
+benchmarks-cassandra-vs-mongodb-vs-Hbase
+https://www.datastax.com/nosql-databases/benchmarks-cassandra-vs-mongodb-vs-Hbase
 
 Cassandra Escalabilidade em AWS NEtFlix
 https://medium.com/netflix-techblog/benchmarking-cassandra-scalability-on-aws-over-a-million-writes-per-second-39f45f066c9e
