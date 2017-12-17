@@ -1,4 +1,8 @@
 # nosql-cassandra
+
+Cassandra Introducao
+https://www.ibm.com/developerworks/br/library/os-apache-cassandra/index.html
+
 Slide Shared
 https://pt.slideshare.net/eitikimura/tdc2016-apache-cassandra-estrategias-de-modelagem-de-dados
 
