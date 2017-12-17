@@ -1,4 +1,9 @@
 # nosql-cassandra
+Slide Shared
+https://pt.slideshare.net/eitikimura/tdc2016-apache-cassandra-estrategias-de-modelagem-de-dados
+
+Curso mOdelando com cassandra
+https://academy.datastax.com/resources/ds220-data-modeling
 
 Download Gerenciador
 https://www.mongodbmanager.com/download
