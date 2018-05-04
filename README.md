@@ -1,5 +1,8 @@
 # nosql-cassandra
 
+Tutorial
+https://www.tutorialspoint.com/cassandra/cassandra_installation.htm
+
 Cassandra Introducao
 https://www.ibm.com/developerworks/br/library/os-apache-cassandra/index.html
 
