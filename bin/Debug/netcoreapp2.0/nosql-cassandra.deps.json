@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "2ff00a8b8a7344f08fd41657017239eac0f75d28"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "nosql-cassandra/1.0.0": {
+        "dependencies": {
+          "CassandraCSharpDriver": "3.0.6"
+        },
+        "runtime": {
+          "nosql-cassandra.dll": {}
+        }
+      },
+      "CassandraCSharpDriver/3.0.6": {
+        "dependencies": {
+          "lz4net": "1.0.5.93"
+        },
+        "runtime": {
+          "lib/net40/Cassandra.dll": {}
+        }
+      },
+      "lz4net/1.0.5.93": {
+        "runtime": {
+          "lib/net40-client/LZ4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "nosql-cassandra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CassandraCSharpDriver/3.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RxVK3VJqRrMBwleOe1ibrJcjkGWdAH2+cG7wTqfgqJW4GwEsicN+LybumZQFYi2tafff5GDiUMHpBvRevxE3iw==",
+      "path": "cassandracsharpdriver/3.0.6",
+      "hashPath": "cassandracsharpdriver.3.0.6.nupkg.sha512"
+    },
+    "lz4net/1.0.5.93": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-iAiUIJ3oRDnWCzlts8bjyw6kLHyy62hCNYbSwd0mLDLIKKFmEwG7KJNye8ThljeDFPlkiAF/b2NuMd7IldJjIw==",
+      "path": "lz4net/1.0.5.93",
+      "hashPath": "lz4net.1.0.5.93.nupkg.sha512"
+    }
+  }
+}

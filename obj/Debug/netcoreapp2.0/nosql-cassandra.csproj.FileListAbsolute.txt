@@ -1,0 +1,10 @@
+D:\projects\estudos\cassandra\nosql-cassandra\bin\Debug\netcoreapp2.0\nosql-cassandra.deps.json
+D:\projects\estudos\cassandra\nosql-cassandra\bin\Debug\netcoreapp2.0\nosql-cassandra.runtimeconfig.json
+D:\projects\estudos\cassandra\nosql-cassandra\bin\Debug\netcoreapp2.0\nosql-cassandra.runtimeconfig.dev.json
+D:\projects\estudos\cassandra\nosql-cassandra\bin\Debug\netcoreapp2.0\nosql-cassandra.dll
+D:\projects\estudos\cassandra\nosql-cassandra\bin\Debug\netcoreapp2.0\nosql-cassandra.pdb
+D:\projects\estudos\cassandra\nosql-cassandra\obj\Debug\netcoreapp2.0\nosql-cassandra.csproj.CoreCompileInputs.cache
+D:\projects\estudos\cassandra\nosql-cassandra\obj\Debug\netcoreapp2.0\nosql-cassandra.AssemblyInfoInputs.cache
+D:\projects\estudos\cassandra\nosql-cassandra\obj\Debug\netcoreapp2.0\nosql-cassandra.AssemblyInfo.cs
+D:\projects\estudos\cassandra\nosql-cassandra\obj\Debug\netcoreapp2.0\nosql-cassandra.dll
+D:\projects\estudos\cassandra\nosql-cassandra\obj\Debug\netcoreapp2.0\nosql-cassandra.pdb
